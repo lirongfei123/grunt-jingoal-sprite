@@ -3,11 +3,12 @@
 ## 设计思路
 1. 使用此插件需要遵循的约定  一倍图，二倍图的存放相对路径暂时要固定，任意定制正在设计开发
 路径演示
-
+```
 ...父级路径
   1x // 一倍图目录
   2x // 二倍图目录
   sprite // 最终的sprite存放目录
+```
 2. 此项目用于为需要支持retina平台，自动生成css sprite，如果你只是想提取css里面的图片然后自动生成 css
  sprite, 而不需要支持二倍图，请移步这里 [spritesmith](https://github.com/Ensighten/spritesmith)
 
