@@ -1,0 +1,174 @@
+@mixin imageSet($url,$suffix:"png"){
+    display:inline-block;
+    background-image:url(#{$url}1x.#{$suffix});
+    background-image: -webkit-image-set(url(#{$url}1x.#{$suffix}) 1x,url(#{$url}2x.#{$suffix}) 2x);
+    background-image: -moz-image-set(url(#{$url}1x.#{$suffix}) 1x,url(#{$url}2x.#{$suffix}) 2x);
+    background-image: -ms-image-set(url(#{$url}1x.#{$suffix}) 1x,url(#{$url}2x.#{$suffix}) 2x);
+    background-image: -o-image-set(url(#{$url}1x.#{$suffix}) 1x,url(#{$url}2x.#{$suffix}) 2x);
+    background-image: image-set(url(#{$url}1x.#{$suffix}) 1x,url(#{$url}2x.#{$suffix}) 2x);
+    background-repeat: no-repeat;
+    _background-image: url(#{$url}1x.#{$suffix});
+}
+
+i[class*='icon-'] {
+    @include imageSet("../imgs/sprite/", "png");
+    background-size: auto!important;
+}
+
+/*应用图标*/
+// 开发的时候可以不编译，就用只用1倍图进行开发，最后再统一处理
+.icon-app48-calendar {
+    width: 48px;
+    height: 48px;
+    background:url(../imgs/1x/icon-app48-calendar.png)!important;
+}
+
+.icon-app48-client {
+    width: 48px;
+    height: 48px;
+    background:url(../imgs/1x/icon-app48-client.png)!important;
+}
+
+.icon-app48-attendance {
+    width: 48px;
+    height: 48px;
+    background:url(../imgs/1x/icon-app48-attendance.png)!important;
+}
+
+.icon-app48-weibo {
+    background:url(../imgs/1x/icon-app48-weibo.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-igoal {
+    background:url(../imgs/1x/icon-app48-igoal.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-eg {
+    background:url(../imgs/1x/icon-app48-eg.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-mail {
+    background:url(../imgs/1x/icon-app48-mail.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-memo {
+    background:url(../imgs/1x/icon-app48-memo.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-disk {
+    background:url(../imgs/1x/icon-app48-disk.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-worklog {
+    background:url(../imgs/1x/icon-app48-worklog.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-plan {
+    background:url(../imgs/1x/icon-app48-plan.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-approve {
+    background:url(../imgs/1x/icon-app48-approve.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-task {
+    background:url(../imgs/1x/icon-app48-task.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-project {
+    background:url(../imgs/1x/icon-app48-project.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-know {
+    background:url(../imgs/1x/icon-app48-know.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-bbs {
+    background:url(../imgs/1x/icon-app48-bbs.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-address {
+    background:url(../imgs/1x/icon-app48-address.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-discuss {
+    background:url(../imgs/1x/icon-app48-discuss.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-attent {
+    background:url(../imgs/1x/icon-app48-attent.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-sysremd {
+    background:url(../imgs/1x/icon-app48-sysremd.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-groups {
+    background:url(../imgs/1x/icon-app48-groups.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-community {
+    background:url(../imgs/1x/icon-app48-community.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-relacomp {
+    background:url(../imgs/1x/icon-app48-relacomp.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-broadcast {
+    background:url(../imgs/1x/icon-app48-broadcast.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-communicate {
+   background:url(../imgs/1x/icon-app48-communicate.png)!important;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-app48-sms {
+    background:url(../imgs/1x/icon-app48-sms.png)!important;
+    width: 48px;
+    height: 48px;
+}

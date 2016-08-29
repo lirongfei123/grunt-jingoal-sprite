@@ -1,0 +1,143 @@
+@charset "UTF-8";
+i[class*='icon-'] {
+  display: inline-block;
+  background-image: url(../imgs/sprite/1x.png);
+  background-image: -webkit-image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-image: -moz-image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-image: -ms-image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-image: -o-image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-image: image-set(url(../imgs/sprite/1x.png) 1x, url(../imgs/sprite/2x.png) 2x);
+  background-repeat: no-repeat;
+  _background-image: url(../imgs/sprite/1x.png);
+  background-size: auto !important; }
+
+/*应用图标*/
+.icon-app48-calendar {
+  width: 48px;
+  height: 48px;
+  background-position: -0px -288px; }
+
+.icon-app48-client {
+  width: 48px;
+  height: 48px;
+  background-position: -0px -336px; }
+
+.icon-app48-attendance {
+  width: 48px;
+  height: 48px;
+  background-position: -0px -96px; }
+
+.icon-app48-weibo {
+  background-position: -0px -1152px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-igoal {
+  background-position: -0px -672px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-eg {
+  background-position: -0px -576px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-mail {
+  background-position: -0px -768px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-memo {
+  background-position: -0px -816px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-disk {
+  background-position: -0px -528px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-worklog {
+  background-position: -0px -1200px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-plan {
+  background-position: -0px -864px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-approve {
+  background-position: -0px -48px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-task {
+  background-position: -0px -1104px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-project {
+  background-position: -0px -912px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-know {
+  background-position: -0px -720px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-bbs {
+  background-position: -0px -192px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-address {
+  background-position: -0px -0px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-discuss {
+  background-position: -0px -480px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-attent {
+  background-position: -0px -144px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-sysremd {
+  background-position: -0px -1056px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-groups {
+  background-position: -0px -624px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-community {
+  background-position: -0px -432px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-relacomp {
+  background-position: -0px -960px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-broadcast {
+  background-position: -0px -240px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-communicate {
+  background-position: -0px -384px;
+  width: 48px;
+  height: 48px; }
+
+.icon-app48-sms {
+  background-position: -0px -1008px;
+  width: 48px;
+  height: 48px; }

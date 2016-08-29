@@ -1,0 +1,158 @@
+{
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-address.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 0
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-approve.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 48
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-attendance.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 96
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-attent.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 144
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-bbs.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 192
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-broadcast.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 240
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-calendar.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 288
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-client.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 336
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-communicate.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 384
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-community.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 432
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-discuss.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 480
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-disk.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 528
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-eg.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 576
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-groups.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 624
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-igoal.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 672
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-know.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 720
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-mail.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 768
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-memo.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 816
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-plan.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 864
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-project.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 912
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-relacomp.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 960
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-sms.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 1008
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-sysremd.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 1056
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-task.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 1104
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-weibo.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 1152
+    },
+    "A:/gitcode/jingoal-code/web-login/grunt/node_modules/grunt-jingoal-sprite/example/dist/imgs/1x/icon-app48-worklog.png": {
+        "width": 96,
+        "height": 96,
+        "x": 0,
+        "y": 1200
+    }
+}
